@@ -16,6 +16,12 @@ h1{
     font-family: "Perpetua", sans-serif;
 }
 
+.bolsadinheiro{
+    /*border: solid black 3px;*/
+    padding-top: 8px;
+    position: absolute;
+}
+
 .paginas{
     /*border: solid black 2px;*/
     display: flex;
